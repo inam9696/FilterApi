@@ -1,5 +1,5 @@
 # FilterApi
-To Run the Project and In Hello Controller in GetList() Action Method. Then all Action Filters Like 
+To Run the Project and In Hello Controller in GetList()    Action Method. Then all Action Filters Like 
 (
 1. ControllerName
 2. ActionName
